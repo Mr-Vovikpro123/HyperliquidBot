@@ -1,0 +1,14 @@
+bot_params:
+    symbol: ETH
+    category: linear
+    deposit: 45
+    order_distance: 0.0025
+    profit_rate: 0.0025
+    leverage: 15
+    order_count: 8
+    first_order_margin: 0.0005
+    grid_trailing: 0.001
+    martingale: 1.0
+    side: Buy
+    reduce_on_tp: 0
+    deposit_fraction: 0.95
